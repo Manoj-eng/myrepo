@@ -1,0 +1,485 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: "Poppins", sans-serif;
+  }
+  .navbar {
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color:black;
+    color: white;
+    list-style: none;
+  }
+  .background-image {
+    height: 520px;
+    background: url("/woman.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .btn
+  {
+    display: flex;
+  }
+
+  
+  .logo{
+    display: flex;
+    justify-content: end;
+  }
+
+  .one{
+    height: 300px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .two{
+    height: 300px;
+    width: 33.3%;
+    background-color: blanchedalmond;
+  }
+  .a{
+    height: 50%;
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+  }
+  
+  .b{
+    height: 50%;
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+  }
+  .g{
+    text-align: center;
+  }
+
+  .three{
+    height: 300px;
+    width: 33.3%;
+    background-color:blanchedalmond;
+    text-align: center;
+  }
+
+  .c{
+    height: 50%;
+    width: 100%;
+    background-color:blanchedalmond;
+    text-align: center;
+  }
+  
+  .d{
+    height: 50%;
+    width: 100%;
+    background-color:blanchedalmond;
+    text-align: center;
+  }
+
+  .four{
+    height: 300px;
+    width: 33.3%;
+    background-color: burlywood;
+    text-align: center;
+  }
+
+
+  .e{
+    height: 50%;
+    width: 100%;
+    background-color:blanchedalmond;
+    text-align: center;
+  }
+  
+  .f{
+    height: 50%;
+    width: 100%;
+    background-color: blanchedalmond;
+    text-align: center;
+  }
+
+  .first{
+      height: 300px;
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: honeydew;
+    
+      
+
+  }
+
+  
+
+.z{
+  height: 300px;
+  width: 25%;
+  text-align: center;
+  
+}
+
+.ab{
+  height: 50%;
+  width: 100%;
+  
+}
+
+.bc{
+  height: 50%;
+  width: 100%;
+  
+}
+.yz{
+  font-size: 20px;
+  font-style: oblique;
+}
+.y{
+  height: 300px;
+  width: 25%;
+  text-align: center;
+  
+}
+
+.cd{
+  height: 50%;
+  width: 100%;
+  
+}
+
+.de{
+  height: 50%;
+  width: 100%;
+  
+}
+.xy{
+  font-size: 20px;
+  font-style: oblique;
+  
+}
+.wx{
+  font-size: 20px;
+  font-style: oblique;
+  
+}
+
+
+
+.x{
+  height: 300px;
+  width: 25%;
+  text-align: center;
+  
+}
+
+.ef{
+  height: 50%;
+  width: 100%;
+  
+}
+
+.fg{
+  height: 50%;
+  width: 100%;
+  
+}
+
+
+.w{
+  height: 300px;
+  width: 25%;
+  text-align: center;
+}
+
+.gh{
+  height: 50%;
+  width: 100%;
+  
+
+}
+
+.hi{
+  height: 50%;
+  width: 100%;
+  
+
+}
+
+.vw{
+  font-size: 20px;
+  font-style: italic;
+  color: black;
+}
+
+
+.pic{
+  background-image: url("/building.jpeg");
+  height: 400px;
+  width: 100%;
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 400px;
+
+}
+.para{
+  text-align: center;
+  font-size: 30px;
+  font-style: oblique;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.arap{
+  text-align: center;
+  font-style: oblique;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.simple{
+   text-align: center;
+   height: 100px;
+   background-color: blanchedalmond;
+}
+.partition{
+  height: 250px;
+  width: 100%;
+  display: flex;
+  
+}
+.partitionOne{
+  height: 250px;
+  width: 50%;
+  background-color: blanchedalmond;
+}
+
+.partitionTwo{
+  height: 250px;
+  width: 50%;
+  background-color: blanchedalmond;
+  
+}
+.easy{
+  height: 300px;
+  width: 100%;
+  text-align: center;
+  background-color: coral;
+}
+.ease{
+  font-size: 30px;
+  color: antiquewhite;
+  font-style: normal;
+}
+
+
+.mid{
+  color: aliceblue;
+}
+.end{
+  font-size: 20px;
+  color: azure;
+}
+
+.key{
+  height: 300px;
+  width: 100%;
+  display: flex;
+  text-align: center;
+}
+
+.keyone{
+  height: 300px;
+  width: 33.3%;
+  text-align: center;
+  
+  
+}
+.keyoneone{
+  height: 150px;
+  width: 50%;
+  text-align: center;
+}
+.keyonetwo{
+  height: 150px;
+  width: 50%;
+  text-align: center;
+  
+}
+
+.keytwo{
+  height: 300px;
+  width: 33.3%;
+  text-align: center;
+}
+
+.keytwoone{
+  height: 150px;
+  width: 50%;
+  text-align: center;
+
+}
+.keytwotwo{
+  height: 150px;
+  width: 50%;
+  text-align: center;
+  
+}
+
+
+.keythree{
+  height: 300px;
+  width: 33.3%;
+  text-align: center;
+  
+}
+.seclast{
+  height: 80px;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  font-size: 30px;
+  font-style: normal;
+}
+
+.logo{
+  display: flex;
+  height: 300px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.logoone{
+  height: 300px;
+  width: 20%;
+}
+
+.logotwo{
+  height: 300px;
+  width: 20%;
+}
+
+.logothree{
+  height: 300px;
+  width: 20%;
+}
+
+.logofour{
+  height: 300px;
+  width: 20%;
+}
+
+.logofive{
+ height: 300px;
+ width:20%
+}
+
+.one{
+  height: 300px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+
+}
+.two{
+  height: 300px;
+  width: 33.3%;
+  background-color: blanchedalmond;
+}
+.a{
+  height: 50%;
+  width: 100%;
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+.b{
+  height: 50%;
+  width: 100%;
+  background-color: blanchedalmond;
+  text-align: center;
+}
+.g{
+  text-align: center;
+}
+
+.three{
+  height: 300px;
+  width: 33.3%;
+  background-color:blanchedalmond;
+  text-align: center;
+}
+
+.c{
+  height: 50%;
+  width: 100%;
+  background-color:blanchedalmond;
+  text-align: center;
+}
+
+.d{
+  height: 50%;
+  width: 100%;
+  background-color:blanchedalmond;
+  text-align: center;
+}
+
+.four{
+  height: 300px;
+  width: 33.3%;
+  background-color: burlywood;
+  text-align: center;
+}
+
+
+.e{
+  height: 50%;
+  width: 100%;
+  background-color:blanchedalmond;
+  text-align: center;
+}
+
+.f{
+  height: 50%;
+  width: 100%;
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+.last{
+  height: 100px;
+  width: 100%;
+  background-color: lightblue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lastlast{
+  column-rule: blanchedalmond;
+  font-size: 15px;
+}
